@@ -8,13 +8,13 @@ permalink: /projects/
 
 Here are some of my data analysis projects:
 
-## [Project 1 Title](2024-05-01-project-1.md)
+## [Project 1 Title]({{ site.baseurl }}{% post_url 2024-05-01-project-1 %})
 *Brief description of Project 1.*
 
-## [Project 2 Title](2024-05-02-project-2.md)
+## [Project 2 Title]({{ site.baseurl }}{% post_url 2024-05-02-project-2 %})
 *Brief description of Project 2.*
 
-## [Project 3 Title](2024-05-03-project-3.md)
+## [Project 3 Title]({{ site.baseurl }}{% post_url 2024-05-03-project-3 %})
 *Brief description of Project 3.*
 
 Each project includes a detailed description, analysis, and visualizations. Click on the project titles to learn more about each project.
