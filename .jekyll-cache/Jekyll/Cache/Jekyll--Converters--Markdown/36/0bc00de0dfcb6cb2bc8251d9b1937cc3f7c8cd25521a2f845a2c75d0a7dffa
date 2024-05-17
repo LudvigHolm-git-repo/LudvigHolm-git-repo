@@ -1,0 +1,24 @@
+I"�<h1 id="project-1-title">Project 1 Title</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>A detailed description of Project 1, including the problem statement and objectives.</p>
+
+<h2 id="data">Data</h2>
+
+<p>Information about the data used in the project, including sources and preprocessing steps.</p>
+
+<h2 id="analysis">Analysis</h2>
+
+<p>Describe the analysis performed, including any code snippets, data visualizations, and interpretations.</p>
+
+<p>```python</p>
+<h1 id="example-code-snippet">Example code snippet</h1>
+<p>import pandas as pd</p>
+
+<h1 id="load-the-dataset">Load the dataset</h1>
+<p>df = pd.read_csv(‘data.csv’)</p>
+
+<h1 id="display-the-first-few-rows">Display the first few rows</h1>
+<p>df.head()</p>
+:ET

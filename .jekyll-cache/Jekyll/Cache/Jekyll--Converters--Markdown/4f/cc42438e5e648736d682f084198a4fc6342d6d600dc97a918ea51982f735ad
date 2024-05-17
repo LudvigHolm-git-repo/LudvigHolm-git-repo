@@ -1,0 +1,37 @@
+I"o<h1 id="about-me">About Me</h1>
+
+<p>Hello! I’m Ludvig Holm, a passionate data analyst with experience in various data analysis techniques and tools. I enjoy transforming raw data into meaningful insights that drive decision-making.</p>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li><strong>Programming Languages:</strong> Python, R, SQL</li>
+  <li><strong>Data Visualization:</strong> Matplotlib, Seaborn, ggplot2, Tableau</li>
+  <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, Keras</li>
+  <li><strong>Tools:</strong> Jupyter Notebook, RStudio, Git, Excel</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<ul>
+  <li><strong>Bachelor of Science in Data Science</strong>
+    <ul>
+      <li>University Name, Year</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+
+<ul>
+  <li><strong>Data Analyst at XYZ Company</strong>
+    <ul>
+      <li>Description of your role and achievements</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Feel free to connect with me on <a href="https://github.com/username">GitHub</a> or <a href="https://www.linkedin.com/in/username/">LinkedIn</a>.</p>
+
+<p>Thank you for visiting my portfolio!</p>
+:ET
